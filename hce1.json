@@ -1,0 +1,28 @@
+﻿{
+  "urls": [
+    {
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/lubin776/tvbox-api-backup/main/tvbox/%E9%A5%AD%E5%A4%AA%E7%A1%AC.json",
+      "name": "饭太硬自动更新"
+    },
+    {
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/lubin776/tvbox-api-backup/main/tvbox/%E8%8F%A0%E8%8F%9Cpro.json",
+      "name": "菠菜pro线路"
+    },
+    {
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/25175/tvyuan/master/tvbox_full.json",
+      "name": "25175/tvyuan线路"
+    },
+    {
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/bizhangjie/CatVodSpider/main/json/index18.json",
+      "name": "bizhangjie/CatVodSpider线路"
+    },
+    {
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/hebijunge/tvbox-config/main/adult.json",
+      "name": "hebijunge/tvbox-config线路"
+    },
+    {
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/ge6bu6/1/main/3.txt",
+      "name": "海豚源仓库"
+    }
+  ]
+}
