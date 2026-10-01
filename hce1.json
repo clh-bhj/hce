@@ -9,55 +9,7 @@
     }
   ],
   "sites": [
-    {
-      "key": "jueson",
-      "name": "🏠主页┃豆瓣",
-      "type": 3,
-      "api": "csp_DouDou",
-      "searchable": 0,
-      "quickSearch": 0,
-      "indexs": 1,
-      "filterable": 1,
-      "jar": "https://0.12yue.de5.net/5/lib/spider.jar"
-    },
-    {
-      "key": "短剧┃搜索1",
-      "name": "🏠短剧┃搜1",
-      "type": 3,
-      "indexs": 1,
-      "searchable": 0,
-      "quickSearch": 0,
-      "api": "https://mpimg.cn/down.php/7e246e896fa4cf52866921b818d7e8cb.py"
-    },
-    {
-      "key": "短剧搜索",
-      "name": "🏠短剧┃搜2",
-      "type": 3,
-      "searchable": 0,
-      "quickSearch": 0,
-      "indexs": 1,
-      "api": "https://mpimg.cn/down.php/18b8bebbf7b64d39a1e3a90c83a86642.py"
-    },
-    {
-      "key": "配置中心",
-      "name": "⚙️配置┃中心",
-      "type": 3,
-      "api": "csp_Config",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
-    },
-    {
-      "key": "本地媒体",
-      "name": "📁本地┃媒体",
-      "type": 3,
-      "api": "csp_LocalFile"
-    },
-    {
+     {
       "key": "ds05",
       "name": "🍀都司资源",
       "type": 0,
